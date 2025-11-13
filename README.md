@@ -48,9 +48,10 @@ A modern, interactive portfolio built with Streamlit showcasing my expertise in 
 
 ## 📧 Connect
 
-- **Email**: bhumika.patel.dev@gmail.com
+- **Email**: bp7249951@gmail.com
 - **GitHub**: [github.com/bhumika-patel](https://github.com/Bhumikapatel302)
 - **LinkedIn**: [Bhumika Patel](https://linkedin.com/in/Bhumika-patel-ml)
 
 *Passionate about creating innovative solutions that make a difference* ✨
+
 
